@@ -13,12 +13,13 @@
 }
 nav{
     background-color: #ee5a04;
+    grid-area: nav;
 }
 main{
     background-color: #46ee04;
     grid-area: main;
 }
-#sidebar{
+#Sidebar{
     background-color: #09e5f5;
     grid-area: sidebar;
 }
